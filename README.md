@@ -1,5 +1,5 @@
 
-  # Senior Software Engineer Portfolio Website
+  # My research website
 
   This is a code bundle for Senior Software Engineer Portfolio Website. The original project is available at https://www.figma.com/design/RAPUhC3vtQNvjfT0dxlaMg/Senior-Software-Engineer-Portfolio-Website.
 
