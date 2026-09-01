@@ -28,10 +28,10 @@ jobs:
           node-version: lts/*
 
       - name: Install dependencies
-        run: npm install
+        run: corepack enable && corepack prepare pnpm@9 --activate && pnpm install
 
       - name: Build
-        run: npm run build
+        run: pnpm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v6
