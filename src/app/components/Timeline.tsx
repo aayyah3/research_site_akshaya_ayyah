@@ -50,6 +50,13 @@ const timelineEvents = [
     description:
       "Prepared for and gave a poster presentation on protein language modeling research at the 9th Annual Michigan AI Symposium."
   },
+  {
+    year: "November 2026",
+    title: "Presentation at 2026 Computational Approaches for Cancer Workshop",
+    organization: "The International Conference for High Performance Computing, Chicago, IL",
+    description:
+      "Prepared for and gave a poster presentation on receptor-conditioned peptide binder design using fine-tuned protein language models at the 2026 Computational Approaches for Cancer Workshop."
+  },
   // {
   //   year: "October 2026",
   //   title: "Presentation at 9th Annual Michigan AI Symposium",
